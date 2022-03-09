@@ -6,7 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Link](#link)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -15,82 +15,74 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
+This is a simple QR code component, made using HTML, CSS and Flexbox.
+
 ### Screenshot
 
-![screenshot](/design/solution_screenshot.jpeg?raw=true)
+![screenshot](./design/solution_screenshot.jpg?raw=true)
 
 
-### Links
+### Link
 
-- Solution URL: [Repository](https://github.com/jhsanchezm/Frontend-Mentor-Challenge/tree/main/qr-code-component-main)
 - Live Site URL: [Webpage](https://jhsanchezm.github.io/Frontend-Mentor-Challenge/qr-code-component-main/index.html)
 
 ## My process
+
+- Step 1: Organizing the index.html file, like adding the container of the card, and then adding the image.
+
+- Step 2: Creating the style.css document, passing the properties from the HTML tag <style> to our style.css
+
+- Step 3: adding the general things to our style.css, like the typogrphy and the colors to every tag
+
+- Step 4: Then added Flexbox to put out layout in order.
+
+At the moment the hardest part of the process for me is not the coding, but instead working with Github, making the deployment and doing this documentation. I've spent more time with this than coding.
+
+
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+At the moment I have not many struggles at coding this and I enjoyed. The thing that I liked most were the alternative solutions to the tutorial that I did on my CSS
 
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
+body {
+	heigh: 90vh;
+	margin: 20px
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I will put in practice what I've learned in Udemy courses and I see the Challenges in Frontend Mentor are very good way to put in practice and remmember what I've seen before.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+And to give myself the good practice of documentate every step in this journey.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [tsbsankara - YouTube Channel](https://www.youtube.com/watch?v=JFyMWwOxHYM) - This helpme with the calc(100vh - 1px) but I saw better to put height: 90vh. And helped me with the deployment, but I did it with Github Pages.
+- [Mr Coder - YouTube Channel](https://www.youtube.com/watch?v=5BBYPntB-GY&t=548s) - This is another way to do the same challenge.
+- [Fazt - YouTube Channel](https://www.youtube.com/watch?v=QaxgF4v4hms) - This helped me how to do the deployment to Github pages [Spanish].
+- [mesutcifci - Github](https://github.com/mesutcifci/Frontend-Mentor-Challenges) - This helped me how to make the documentation and orginize the repository.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@jhsanchezm](https://www.frontendmentor.io/profile/jhsanchezm)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+I received a lot of help from the content of tsbsankara, Mr Coder, Fazt and mesutcifci.
+I read some other blogs to complete the challenge and the documentation that I don't remmember, thanks to all of them too.
