@@ -22,7 +22,7 @@ This is a simple QR code component, made using HTML, CSS and Flexbox.
 
 ### Screenshot
 
-![screenshot](./design/solution_screenshot.jpg?raw=true)
+![screenshot](./design/solution_screenshot.jpeg?raw=true)
 
 
 ### Link
