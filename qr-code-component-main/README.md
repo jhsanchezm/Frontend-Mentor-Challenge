@@ -21,13 +21,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./solution_screenshot.jpeg)
+![](/design/solution_screenshot.jpeg)
 
 
 ### Links
 
-- Solution URL: [](https://github.com/jhsanchezm/Frontend-Mentor-Challenge/tree/main/qr-code-component-main)
-- Live Site URL: [](https://jhsanchezm.github.io/Frontend-Mentor-Challenge/qr-code-component-main/index.html)
+- Solution URL: [Repository](https://github.com/jhsanchezm/Frontend-Mentor-Challenge/tree/main/qr-code-component-main)
+- Live Site URL: [Webpage](https://jhsanchezm.github.io/Frontend-Mentor-Challenge/qr-code-component-main/index.html)
 
 ## My process
 
