@@ -58,7 +58,10 @@ At the moment I have not many struggles at coding this and I enjoyed. The thing 
 ```css
 body {
 	heigh: 90vh;
-	margin: 20px
+}
+
+.container {
+	margin: auto 1em;
 }
 ```
 
@@ -71,7 +74,7 @@ And to give myself the good practice of documentate every step in this journey.
 
 ### Useful resources
 
-- [tsbsankara - YouTube Channel](https://www.youtube.com/watch?v=JFyMWwOxHYM) - This helpme with the calc(100vh - 1px) but I saw better to put height: 90vh. And helped me with the deployment, but I did it with Github Pages.
+- [tsbsankara - YouTube Channel](https://www.youtube.com/watch?v=JFyMWwOxHYM) - This helped me and took some ideas of him.
 - [Mr Coder - YouTube Channel](https://www.youtube.com/watch?v=5BBYPntB-GY&t=548s) - This is another way to do the same challenge.
 - [Fazt - YouTube Channel](https://www.youtube.com/watch?v=QaxgF4v4hms) - This helped me how to do the deployment to Github pages [Spanish].
 - [mesutcifci - Github](https://github.com/mesutcifci/Frontend-Mentor-Challenges) - This helped me how to make the documentation and orginize the repository.
