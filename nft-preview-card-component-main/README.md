@@ -29,13 +29,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.jpeg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/flexbox-position-hover-and-pureref-AQpkK-eUI)
+- Live Site URL: [Live Site](https://jhsanchezm.github.io/Frontend-Mentor-Challenge/nft-preview-card-component-main/index.html)
 
 ## My process
 
@@ -45,6 +45,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+- PureRef
 
 
 ### What I learned
