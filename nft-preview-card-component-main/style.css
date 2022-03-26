@@ -154,11 +154,13 @@ body {
 }
 
 .attribution {
+  color: var(--white);
   font-size: 11px;
   text-align: center;
 }
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: var(--cyan);
+  text-decoration: none;
 }
 
 @media screen and (min-width: 1440px) {
