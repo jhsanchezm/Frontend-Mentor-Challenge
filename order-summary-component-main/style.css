@@ -30,7 +30,6 @@ body {
   background-size: 100%;
   background-color: var(--pale-blue);
   background-position: top;
-  border: 1px solid magenta; /*Temporary*/
   height: 100vh;
   width: 100vw;
 }
@@ -225,3 +224,4 @@ body {
   .secondary a {
     font-size: 1.4em;
   }
+}
