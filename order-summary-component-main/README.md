@@ -69,7 +69,7 @@ Just need to put in practice more challenges to be sure from repetition of CSS p
 
 ### Useful resources
 
-- [MRZ.Code.Manufacture - YouTube Video](https://www.youtube.com/watch?v=neuRRdAqlVY) - This video helped me using the PureRef tool that supported me to measure the size of the elements depending on the screen size.
+- [MRZ.Code.Manufacture - YouTube Video](https://www.youtube.com/watch?v=gpOxFTRhXE0) - This video helped me using the PureRef tool that supported me to measure the size of the elements depending on the screen size.
 
 
 ## Author

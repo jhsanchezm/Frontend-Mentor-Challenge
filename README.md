@@ -14,7 +14,7 @@ This repository contains some challenges from [Frontend Mentor](https://www.fron
 
 |Name|Difficulty| Technologies / Approaches |
 |---|---|---|
-|  [QR code component](https://jhsanchezm.github.io/Frontend-Mentor-Challenge/qr-code-component-main/index.html) | :star:   | HTML, CSS, Flexbox |
-|  [NFT preview card component](https://jhsanchezm.github.io/Frontend-Mentor-Challenge/nft-preview-card-component-main/index.html) | :star:   | HTML, CSS, Flexbox |
+|  [QR code component](https://jhsanchezm.github.io/Frontend-Mentor-Challenge/qr-code-component-main/index.html) | :star:   | HTML, CSS |
+|  [NFT preview card component](https://jhsanchezm.github.io/Frontend-Mentor-Challenge/nft-preview-card-component-main/index.html) | :star:   | HTML, CSS |
 
 
