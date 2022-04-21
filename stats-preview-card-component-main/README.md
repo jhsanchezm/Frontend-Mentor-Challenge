@@ -32,10 +32,12 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/jhsanchezm/Frontend-Mentor-Challenge/tree/main/stats-preview-card-component-main)
+- Live Site URL: [Live](https://jhsanchezm.github.io/Frontend-Mentor-Challenge/stats-preview-card-component-main/index.html)
 
 ## My process
+
+First I worked in the general things of the card specially the text. Next to this I had to work with the image and all his components and at the end I used the @media to change the layout component when the screen size changes.
 
 ### Built with
 
